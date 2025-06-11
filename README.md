@@ -38,7 +38,7 @@ La página simula una pequeña web temática basada en el videojuego **ARK: Surv
 
 | Intro con Video                        | Dino-Dossiers (Cards)               | Formulario de Login                 |
 |----------------------------------------|-------------------------------------|-------------------------------------|
-| <img src="images/intro.jpg" width="250"/> | <img src="images/cards.jpg" width="250"/> | <img src="images/login.jpg" width="250"/> |
+| <img src="imagenes/intro.png" width="250"/> | <img src="imagenes/cards.png" width="250"/> | <img src="imagenes/login.png" width="250"/> |
 
 </div>
 
